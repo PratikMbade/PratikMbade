@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Pratik Bade from NaviMumbai<br><br>- 🔭 I’m working as Frontend Developer Intern at House of Dishes<br>- 📚 I'm currently Pursing BTech Degree in Information Technology<br>- ⚡ In my free time  I'm used to explore Wed Dev in deep</p>
+<p align="left">I'm Pratik Bade from NaviMumbai<br><br>-👨‍💻 I'm Working as Full-Stack Developer at BN-Network<br><br>- 🔭 Ex-intern at House of Dishes<br>- 📚 I'm currently Pursing BTech Degree in Information Technology<br>- ⚡ In my free time  I'm used to explore Wed Dev in deep</p>
 
 ###
 
